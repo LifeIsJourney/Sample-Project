@@ -1,5 +1,5 @@
 I am just sharing it so that people can learn and use if they found it useful.
-# N3K-Inheritance
+# Some Projects
 This contain other project also.
 N3K Inheritance
 https://www.youtube.com/watch?v=ZpxNmDm-t64&t=946s
